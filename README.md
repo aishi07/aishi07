@@ -1,6 +1,5 @@
-  👋 Hi, I’m Aishi 
-  🌱 I’m currently learning CSS, JavaScript, React etc. 
-  📫 How to reach me aishichakraborty2004@gmail.com 
+
+  
   ⚡ Fun fact: !WARNING! You are interacting with a cat
 
 <!---
